@@ -12,7 +12,7 @@ The goal is to practice semantic HTML, text formatting, and layout design while 
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view the project](https://jorgegabrielsantos.github.io/tribute_page/)
+👉 [Click here to view the project](https://Jorgegabrielsantos.github.io/tribute_page/)
 
 ---
 
